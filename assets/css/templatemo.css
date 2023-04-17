@@ -55,9 +55,9 @@ body, ul, li, p, a, label, input, div {
    color: #92d400;                                                                           /* adicionado */
    font-weight: bolder;                                                                        /* adicionado */
 }
-.center_video{
-  display: flex;
-  justify-content: center
+.center_video{                                      
+  display: flex;                                                                              /* adicionado */
+  justify-content: center                                                                     /* adicionado */
 }
 #left{
   margin-left: 100px;                                                                         /* adicionado */
@@ -66,9 +66,8 @@ body, ul, li, p, a, label, input, div {
   padding-top: 40px;                                                                         /* adicionado */
 }
 #center_h1{
-  padding-left: 350px;
-  padding-bottom: 10px;
-  padding-top: 10px;
+  display: flex;                                                                              /* adicionado */
+  justify-content: center;
 }
 
 /* General */
