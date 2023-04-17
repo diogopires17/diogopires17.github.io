@@ -64,6 +64,11 @@ body, ul, li, p, a, label, input, div {
 #baixo{
   padding-top: 40px;                                                                         /* adicionado */
 }
+#center_h1{
+  padding-left: 500px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
 /* General */
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
