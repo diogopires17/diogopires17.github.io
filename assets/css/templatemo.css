@@ -57,7 +57,7 @@ body, ul, li, p, a, label, input, div {
 }
 .center_video{                                      
   display: flex;                                                                              /* adicionado */
-  justify-content: center                                                                     /* adicionado */
+  justify-content: center  ;                                                                  /* adicionado */                                                           /* adicionado */
 }
 #left{
   margin-left: 100px;                                                                         /* adicionado */
@@ -70,6 +70,13 @@ body, ul, li, p, a, label, input, div {
   justify-content: center;
 }
 
+#shop_icons{
+  color: #92d400;
+}
+
+#price{
+  text-decoration: line-through;
+}
 /* General */
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
